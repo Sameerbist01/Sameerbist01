@@ -1,80 +1,102 @@
 # Hi, I'm Sameer Bist 👋
 
-### Aspiring Full-Stack Developer | Python • FastAPI • JavaScript • Machine Learning
+### Aspiring Python Backend Developer | Python • FastAPI • PostgreSQL
 
-I'm a **BSc CSIT student at Tribhuvan University, Nepal**, focused on building practical software and strengthening my skills in backend development, full-stack engineering, and machine learning.
+I'm a **BSc CSIT student at Tribhuvan University, Nepal**, focused on backend development and building practical software applications.
 
-I enjoy learning by building projects, understanding how systems work, and improving my code through testing and iteration.
+I enjoy learning how applications work behind the scenes, designing REST APIs, working with databases, and exploring machine learning.
 
----
+Currently, I'm strengthening my Python backend development skills through hands-on projects.
 
-## 🚀 About Me
+## 🛠️ Technical Skills
 
-- 🎓 Studying **BSc CSIT** at Tribhuvan University.
-- 💻 Building backend applications with **Python, FastAPI, and SQLAlchemy**.
-- 📊 Exploring machine learning with **NumPy, Pandas, and Scikit-learn**.
-- 🌱 Currently learning **React, Node.js, and Express.js**.
-- 🎯 Working toward becoming a well-rounded software developer.
+**Programming Languages**
+- Python
+- JavaScript (Fundamentals)
+- C / C++
 
-## 🛠️ Technologies & Tools
+**Backend Development**
+- FastAPI
+- REST API Development
+- Pydantic
+- SQLAlchemy
+- CRUD Operations
+- API Validation and Error Handling
+- Filtering, Sorting and Pagination
 
-**Languages**
+**Databases**
+- PostgreSQL
+- MySQL (Fundamentals)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Testing**
+- Pytest
+- FastAPI TestClient
 
-**Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
-
-**Data & Machine Learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**Data Science & Machine Learning**
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Data Preprocessing
+- Exploratory Data Analysis
+- Regression and Classification
+- Model Training and Evaluation
 
 **Tools**
+- Git & GitHub
+- VS Code
+- PowerShell
+- Python Virtual Environments
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+## 🚀 Projects
 
-**Currently learning:** React • Node.js • Express.js
+### 1. Inventory Management API
+A backend application for managing inventory and product records.
 
-## 📌 Featured Projects
+**Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pytest
 
-### [Inventory Management API](https://github.com/Sameerbist01/inventory-management-api)
+- REST API development
+- Product CRUD operations
+- Database integration using SQLAlchemy
+- Pydantic request and response validation
+- Automated API testing
 
-A RESTful backend application for managing product inventory.
+*Currently developing and improving this project.*
 
-- Built with Python, FastAPI, PostgreSQL, and SQLAlchemy.
-- Implements product CRUD operations, search, filtering, and pagination.
-- Uses Pydantic for request validation.
-- Includes automated API tests with Pytest.
+### 2. Credit Risk Prediction
+A machine learning project that predicts credit risk using borrower-related data.
 
-### [Credit Risk Prediction](https://github.com/Sameerbist01/credit-risk-prediction)
+**Technologies:** Python, Pandas, Scikit-learn, FastAPI
 
-A machine learning project focused on predicting credit risk.
+- Data preprocessing
+- Machine learning pipeline
+- Credit risk prediction
+- Model serialization
+- API-based model serving
 
-- Uses Python, Pandas, NumPy, and Scikit-learn.
-- Includes a machine learning pipeline and model training workflow.
-- Uses FastAPI and Streamlit for application interfaces.
+[View Repository](https://github.com/Sameerbist01/credit-risk-prediction)
 
-## 📈 What I'm Working Toward
+## 📚 Currently Learning
 
-- Building reliable and maintainable REST APIs.
-- Improving database design and backend architecture.
-- Learning modern frontend development with React.
-- Connecting machine learning models to practical applications.
-- Developing and deploying complete full-stack projects.
+- Advanced Python
+- Backend architecture and best practices
+- Authentication and authorization
+- Database migrations and optimization
+- Docker and deployment
+- Building reliable and well-tested REST APIs
+
+## 🎯 Career Goal
+
+I'm working toward becoming a professional **Python Backend Developer**, building reliable applications and gaining practical industry experience.
+
+I'm interested in paid backend development internships and junior opportunities where I can contribute, learn, and grow.
+
+## 🔗 Connect With Me
+
+- **GitHub:** [@Sameerbist01](https://github.com/Sameerbist01)
+- **Portfolio:** [sameerbist.com.np](https://sameerbist.com.np)
+- **Location:** Nepal
 
 ---
 
-## 🤝 Connect With Me
-
-- **GitHub:** [@Sameerbist01](https://github.com/Sameerbist01)
+*Always learning. Always building. 🚀*
